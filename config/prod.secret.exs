@@ -12,7 +12,7 @@ config :hello, HelloWeb.Endpoint,
   secret_key_base: System.get_env("secret_key_base")
 
 # Configure your database
-config :hello, HelloWeb.Repo,
+config :hello, Hello.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: System.get_env("DATABASE_USERNAME"),
   password: System.get_env("DATABASE_PASSWORD"),
