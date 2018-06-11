@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello
 
 To start your Phoenix server:
@@ -18,3 +19,7 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# phoenix-real-time-chat-app
+Elixir/Phoenix Real Time Chat App 
+>>>>>>> b335ed5d4c32b6de2cc3d236ba46af6dfe80dc29
