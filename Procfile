@@ -1,1 +1,1 @@
-web: bundle exec rails server -p $PORT
+web: MIX_ENV=prod mix phx.server
