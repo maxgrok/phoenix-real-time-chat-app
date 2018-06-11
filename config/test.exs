@@ -17,3 +17,5 @@ config :hello, Hello.Repo,
   database: "hello_test",
   hostname: "localhost",
   pool: Ecto.Adapters.SQL.Sandbox
+
+
