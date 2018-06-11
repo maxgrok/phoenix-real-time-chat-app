@@ -1,4 +1,4 @@
-defmodule Chatroom.LobbyChannel do
+defmodule HelloWeb.LobbyChannel do
   use Phoenix.Channel
 
   def join("lobby", _body, socket) do
