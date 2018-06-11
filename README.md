@@ -1,7 +1,9 @@
-<<<<<<< HEAD
-# Hello
+# phoenix-real-time-chat-app
+This is an Elixir/Phoenix Real Time Chat App. Feel free to remix and use it to your heart's content. 
 
-To start your Phoenix server:
+# Hello/ Getting Started
+
+To start this app run the following: 
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
@@ -12,6 +14,10 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
+# Contributor
+
+Contribute to this repo by submitting a pull request! 
+
 ## Learn more
 
   * Official website: http://www.phoenixframework.org/
@@ -19,7 +25,3 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
-=======
-# phoenix-real-time-chat-app
-Elixir/Phoenix Real Time Chat App 
->>>>>>> b335ed5d4c32b6de2cc3d236ba46af6dfe80dc29
