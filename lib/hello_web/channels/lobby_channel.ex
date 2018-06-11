@@ -1,7 +1,7 @@
 defmodule Chatroom.LobbyChannel do
   use Phoenix.Channel
 
-  def join("lobby", _payload, socket) do
+  def join("lobby", _body, socket) do
     {:ok, socket}
   end
 
@@ -9,4 +9,5 @@ defmodule Chatroom.LobbyChannel do
     broadcast! socket, "new_message", payload
     {:noreply, socket}
   end
- end
+
+end
